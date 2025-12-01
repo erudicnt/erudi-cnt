@@ -28,7 +28,7 @@ Je travaille sur des solutions simples, efficaces et adaptées aux TPE/PME : Doc
 
 ## 🛠️ Technologies & Tools
 
-* **Virtualisation** : Proxmox, KVM, Hyper-V, Azure Stack HCI
+* **Virtualisation** : Hyper-V
 * **Systèmes** : Linux (Debian, Ubuntu), Windows Server
 * **Conteneurisation** : Docker, Docker Compose
 * **Backend** : Python, Django, Strapi
